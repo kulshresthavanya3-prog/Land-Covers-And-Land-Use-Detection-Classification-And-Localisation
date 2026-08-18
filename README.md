@@ -186,6 +186,7 @@ For the complete methodology, dataset statistics, per-class weighting rationale,
 📘 **[Shillong_LULC_Technical_Report.docx](./Shillong_LULC_Technical_Report.docx)**
 
 ---
+##Link:https://VanyaK.pythonanywhere.com
 
 ## 👤 Author
 
